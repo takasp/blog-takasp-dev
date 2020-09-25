@@ -10,7 +10,9 @@ export default function Bio() {
     <>
       Software Engineer.
       <br />
-      <Styled.a href="https://twitter.com/takasp_2350">Please follow me.</Styled.a>
+      <Styled.a href="https://twitter.com/takasp_2350">
+        Please follow me.
+      </Styled.a>
     </>
   )
 }
